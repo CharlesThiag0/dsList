@@ -27,7 +27,77 @@ public class Game {
 		this.shortDescription = shortDescription;
 		this.logDescription = logDescription;
 	}
-	
-	
+
+	public Long getId() {
+		return this.id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}
+
+	public String getTitle() {
+		return this.title;
+	}
+
+	public void setTitle(String title) {
+		this.title = title;
+	}
+
+	public Integer getYear() {
+		return this.year;
+	}
+
+	public void setYear(Integer year) {
+		this.year = year;
+	}
+
+	public String getGenre() {
+		return this.genre;
+	}
+
+	public void setGenre(String genre) {
+		this.genre = genre;
+	}
+
+	public String getPlatforms() {
+		return this.platforms;
+	}
+
+	public void setPlatforms(String platforms) {
+		this.platforms = platforms;
+	}
+
+	public Double getScore() {
+		return this.score;
+	}
+
+	public void setScore(Double score) {
+		this.score = score;
+	}
+
+	public String getImgUrl() {
+		return this.imgUrl;
+	}
+
+	public void setImgUrl(String imgUrl) {
+		this.imgUrl = imgUrl;
+	}
+
+	public String getShortDescription() {
+		return this.shortDescription;
+	}
+
+	public void setShortDescription(String shortDescription) {
+		this.shortDescription = shortDescription;
+	}
+
+	public String getLogDescription() {
+		return this.logDescription;
+	}
+
+	public void setLogDescription(String logDescription) {
+		this.logDescription = logDescription;
+	}
 	
 }

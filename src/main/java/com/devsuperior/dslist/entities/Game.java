@@ -25,13 +25,13 @@ public class Game {
 	private Double score;
 	private String imgUrl;
 	private String shortDescription;
-	private String logDescription;
+	private String longDescription;
 	
 	public Game() {
 	}
 	
 	public Game(Long id, String title, Integer year, String genre, String platforms,
-			    Double score, String imgUrl, String shortDescription, String logDescription) {
+			    Double score, String imgUrl, String shortDescription, String longDescription) {
 		this.id = id;
 		this.title = title;
 		this.year = year;
@@ -40,7 +40,7 @@ public class Game {
 		this.score = score;
 		this.imgUrl = imgUrl;
 		this.shortDescription = shortDescription;
-		this.logDescription = logDescription;
+		this.longDescription = longDescription;
 	}
 
 	public Long getId() {
@@ -107,12 +107,12 @@ public class Game {
 		this.shortDescription = shortDescription;
 	}
 
-	public String getLogDescription() {
-		return this.logDescription;
+	public String getLongDescription() {
+		return this.longDescription;
 	}
 
-	public void setLogDescription(String logDescription) {
-		this.logDescription = logDescription;
+	public void setLongDescription(String longDescription) {
+		this.longDescription = longDescription;
 	}
 	
 

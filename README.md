@@ -1,5 +1,8 @@
 # DSList - Intensivão Java Spring
-#### Feat: Charles Thiago / Nélio Alves
+### O programa aborda um projeto envolvendo uma coleção de jogos, que inclui categorias como aventura RPG e plataforma. Apresenta uma funcionalidade que permite o reposicionamento dinâmico dos jogos, atualizando automaticamente as informações do banco de dados.
+
+## Colaboração com Nélio Alves
+Meus agradecimentos especiais ao instrutor Nélio Alves pela sua orientação valiosa e contribuições significativas durante o desenvolvimento deste projeto.
 
 # Tecnologias usadas 
 - [Java](https://www.oracle.com/br/java/technologies/)
@@ -25,7 +28,7 @@
 ![Help Marketplace](https://github.com/CharlesThiag0/dsList/assets/143355945/9f658c8f-67f5-4152-9238-673cb54eba4a)
 
 2.
-![Spring tools](https://github.com/CharlesThiag0/dsList/assets/143355945/13add2a0-2d2b-4926-803a-ead02d14f473)
+![Spring tools](https://github.com/CharlesThiag0/dsList/assets/143355945/e2032cdc-e068-4f8a-82fb-feb63bd0c230)
 
   # Baixar o projeto
 1. Abrir o Terminal ou Prompt de comandodo seu sistema operacional.
